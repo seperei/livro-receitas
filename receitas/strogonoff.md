@@ -28,20 +28,3 @@
 Está Pronto! Bon Apetit!
 
 
-
-Formatação do texto - Ajuda - Markdow Reference
-
-Palavras entre dois asteriscos - **Negrito**
-
-Palavras entre underlines - _Itálico_
-
-Palavras precedidas por um ou mais hashtags formatam 
-
-#Títulos Maiores 
-
-## Títulos Médios
-
-### Títulos Menores
-
-
-
