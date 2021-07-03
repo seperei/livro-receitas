@@ -1,6 +1,6 @@
 # Strogonoff de Carne :cow2:
 
-###Ingredientes
+### Ingredientes
 
 - 1Kg de Bom-Bom da Alcatra picado em cubos (Temperada a gosto)
 - Uma caixinha de creme de leite
